@@ -1,0 +1,5 @@
+venv/
+commerce/__pycache__
+auctions/__pycache__
+auctions/migrations
+db.sqlite3
